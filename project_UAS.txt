@@ -1,0 +1,10 @@
+PSNR > 30 maka baik
+
+
+Project UAS :
+
+1. pilih studi status (misal: judul kualitas citra dental)
+2. Hitung nilai MSE dan PSNR
+3. buat kesimpulan
+4. buat program bentuk GUI
+5. buat laporan
